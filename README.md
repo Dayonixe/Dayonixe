@@ -77,13 +77,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  <a href="https://prawse.fr/" target="blank">
-    <img align="center" src="https://prawse.fr/img/parameter/icone.png" alt="sdfsfd" height="30" width="30" />
+  <a href="https://prawse.fr/" target="_blank">
+    <img align="center" src="https://prawse.fr/img/parameter/icone.png" alt="prawse" height="30" width="30" />
   </a>
-  <a href="https://www.instagram.com/dayonixe/" target="blank">
+  <a href="https://www.instagram.com/dayonixe/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dayonixe" height="30" width="40" />
   </a>
-  <a href="https://www.youtube.com/channel/UCBBdL87TI0cygK67aJkRu9A" target="blank">
+  <a href="https://www.youtube.com/channel/UCBBdL87TI0cygK67aJkRu9A" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dayonixe" height="30" width="40" />
   </a>
 </p>
