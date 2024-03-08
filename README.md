@@ -75,21 +75,6 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://prawse.fr/" target="_blank">
-    <img align="center" src="https://prawse.fr/img/parameter/icone.png" alt="prawse" height="30" width="30" />
-  </a>
-  <a href="https://www.instagram.com/dayonixe/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dayonixe" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCBBdL87TI0cygK67aJkRu9A" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dayonixe" height="30" width="40" />
-  </a>
-</p>
-
----
-
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
 <img src="https://github-readme-stats.vercel.app/api?username=dayonixe&show_icons=true&theme=radical" alt="dayonixe" />
